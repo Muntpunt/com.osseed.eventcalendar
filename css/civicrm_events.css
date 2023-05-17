@@ -1,0 +1,9 @@
+.event-info-details a{
+	border-bottom: 1px solid #ddd;
+  display: block;
+  padding-left: 1px;
+}
+
+.fc-day-grid-event .fc-time {
+	display: block;
+}
